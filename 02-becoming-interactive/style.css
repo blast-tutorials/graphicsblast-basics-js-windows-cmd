@@ -1,0 +1,11 @@
+body
+{
+    text-align: center;
+    background-color: #eee;
+}
+
+#webgl-canvas
+{
+    border: 1px solid black;
+    background-color: #fff;
+}
